@@ -1,0 +1,5 @@
+¿Puede ver el archivo tp2_1_2.c?¿Por qué?
+    No, porque se encuentra en otra Banch(Opcion_2).
+¿Que diferencias nota?
+    La diferencia que veo es que es como que la rama se dividió en 2.
+Despues de utilizar el comando gitk --all noto que las ramas se fucionaron.
